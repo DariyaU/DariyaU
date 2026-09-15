@@ -1,8 +1,14 @@
 # Дарья Ульянова — QA Engineer
 
+**Functional · Regression · Smoke · Integration · Exploratory · Mobile · API/SQL practice**
+
 Практикующий QA с опытом тестирования и сопровождения корпоративного ПО. Самостоятельно исследую новый функционал, проверяю пользовательские и интеграционные сценарии, воспроизвожу и локализую дефекты, работаю с логами и сопровождаю исправления до ретеста.
 
 Сейчас развиваюсь в сторону более технического QA: API, SQL, DevTools, Git и тестирование мобильных приложений.
+
+[Портфолио](https://github.com/DariyaU/Portfolio) · [Коммерческий QA-опыт](https://github.com/DariyaU/Portfolio/tree/main/06-commercial-experience) · [Mobile QA case](https://github.com/DariyaU/Portfolio/tree/main/05-mobile-testing)
+
+---
 
 ## Что делаю в коммерческой работе
 
@@ -31,7 +37,13 @@
 
 Pet-project, в котором я участвовала как QA: анализировала требования, сверяла реализацию с макетами Figma, тестировала приложение на физическом Android-устройстве, проходила пользовательские сценарии, фиксировала дефекты, уточняла ожидаемое поведение с разработчиком и проводила retest исправлений.
 
-[Мой QA case study по проекту](https://github.com/DariyaU/Portfolio/tree/main/05-mobile-testing)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mikhail-Shishenkov/po-remont-android/main/docs/screenshots/01-main-screen.jpg" width="185" alt="Главный экран ПО Ремонт">
+  <img src="https://raw.githubusercontent.com/Mikhail-Shishenkov/po-remont-android/main/docs/screenshots/03-checklist-results.jpg" width="185" alt="Чек-лист ПО Ремонт">
+  <img src="https://raw.githubusercontent.com/Mikhail-Shishenkov/po-remont-android/main/docs/screenshots/04-defects-and-report.jpg" width="185" alt="Дефекты и отчёт ПО Ремонт">
+</p>
+
+[QA case study](https://github.com/DariyaU/Portfolio/tree/main/05-mobile-testing) · [QA checklist](https://github.com/DariyaU/Portfolio/blob/main/05-mobile-testing/CHECKLIST.md)
 
 ## Инструменты и навыки
 
